@@ -6,7 +6,7 @@ marp: true
 
 ## 学習テーマ：マイクラの MOD を作成しよう！！
 
-清水 哲也（ shimizu@info.shonan-it.ac.jp )
+清水 哲也( shimizu@info.shonan-it.ac.jp )
 
 ---
 
